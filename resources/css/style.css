@@ -27,10 +27,19 @@ h1, h2, p, a{
     font-weight: 400;
 }
 
+a{
+    color: aquamarine;
+    font-size: .8rem;
+}
+
 p{
     opacity: .6;
 }
 
 img{
     max-width: 90%;
+}
+
+footer{
+    padding: 25px 0;
 }
